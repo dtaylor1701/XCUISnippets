@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>constrain right</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>CodeBlock</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>&lt;#view#&gt;.rightAnchor.constraint(equalTo: &lt;#T##NSLayoutAnchor&lt;NSLayoutYAxisAnchor&gt;#&gt;, constant: &lt;#T##CGFloat#&gt;).isActive = true</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>F0FF9BC5-4041-43B1-B825-AE2EE5AD48E3</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Setup for right constraint</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Right Constraint</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
