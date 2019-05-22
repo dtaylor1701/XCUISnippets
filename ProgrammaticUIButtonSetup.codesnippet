@@ -9,7 +9,7 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>var &lt;#button name#&gt;: UIButton = {
+	<string>private lazy var &lt;#button name#&gt;: UIButton = {
         let b = UIButton()
         b.translatesAutoresizingMaskIntoConstraints = false
         &lt;#setup#&gt;
