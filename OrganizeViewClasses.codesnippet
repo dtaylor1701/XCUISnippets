@@ -19,7 +19,7 @@
     // MARK: - View Logic Properties
 
     // MARK: - Initializers
-    override init(frame: CGRect) {
+    override init(frame: CGRect, model: Model) {
         super.init(frame: frame)
     }
 
