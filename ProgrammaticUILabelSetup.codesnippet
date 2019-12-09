@@ -9,11 +9,11 @@
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>private lazy var &lt;#label name#&gt;: UILabel = {
-        let l = UILabel()
-        l.translatesAutoresizingMaskIntoConstraints = false
+	<string>private let &lt;#label name#&gt;: UILabel = {
+        let label = UILabel()
+        label.translatesAutoresizingMaskIntoConstraints = false
         &lt;#setup#&gt;
-        return l
+        return label
     }()</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9B952EF4-572C-4F0B-87E0-F7EA4A9F453C</string>
