@@ -10,10 +10,10 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>private lazy var &lt;#view name#&gt;: UIView = {
-        let v = UIView()
-        v.translatesAutoresizingMaskIntoConstraints = false
+        let subview = UIView()
+        subview.translatesAutoresizingMaskIntoConstraints = false
         &lt;#setup#&gt;
-        return v
+        return subview
     }()</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F5B12564-D96F-4907-9568-DDE845D67F95</string>
