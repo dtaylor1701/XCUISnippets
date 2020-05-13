@@ -10,10 +10,10 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>private let &lt;#label name#&gt;: UILabel = {
-        let label = UILabel()
-        label.translatesAutoresizingMaskIntoConstraints = false
+        let l = UILabel()
+        l.translatesAutoresizingMaskIntoConstraints = false
         &lt;#setup#&gt;
-        return label
+        return l
     }()</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9B952EF4-572C-4F0B-87E0-F7EA4A9F453C</string>
